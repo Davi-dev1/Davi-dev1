@@ -31,7 +31,7 @@
 
 
 
-# Linguagens que conheço: 👨‍💻 🛠:
+# Ferramentas que uso: 👨‍💻 🛠:
 </br>
 
 <p align="center">
