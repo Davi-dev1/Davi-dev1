@@ -64,7 +64,7 @@
 
 Caso você queira me contatar para algum projeto, ou para conversar, jogar ou estudar me contate:😉.
 
-<a href="mailto:davigancalvesdaislva@gmail.com">
+<a href="mailto:davigancalvesdasilva@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
 <a href="https://www.linkedin.com/in/davi-gon%C3%A7alves01/">
