@@ -23,7 +23,8 @@
 - ✨ Adoro Videogames
 - ✨ Adoro Filmes
 - ✨ Gosto de animes
-- ✨ Adoro ler livros 
+- ✨ Adoro ler livros
+- ✨ Adoro Rock
 
 </br>
 </br>
