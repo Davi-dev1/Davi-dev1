@@ -13,7 +13,7 @@
 
 ### - Eu me chamo Davi Gonçalves da Silva , tenho 18 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/queen-sing.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icegif-1072.gif">
 
 ### - Conhecimentos  :
 - ✨ Conhecimento em Front - End: HTML,CSS,JAVASCRIPT,REACT.js
@@ -38,7 +38,7 @@
 <p align="center">
 
 <!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/queen-band.gif" alt="Css" width="100" highth="50">
+<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/CSS.svg" alt="Css" width="100" highth="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
 <img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
