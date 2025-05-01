@@ -1,35 +1,85 @@
-## Olá Olá pessoinha 👋
-**Davi-dev1/Davi-dev1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-Algumas coisas sobre mim:
+# Olá olá pessoinha 👋
 
-- 🔭 EU sou um estudante de programação, adoro pesquisar e gosto de tecnologia
-- 📚 Adoro ler livros diversos ...
-- 🤔 Curto desafios...
-- 💬 Gosto de pensar bastante sobre a vida  ...
-- 💪  Gosto de praticar atividades fisicas...
-- ⚡🎮 Fun fact:  Gosto de Jogar video game (sou sonysta)...
--->
 <div align="center">
-  <a href="https://github.com/Mateus-Batista12">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-dev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dev1&layout=compact&langs_count=7&theme=dracula"/>
+<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/208593.gif">
 </div>
 
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Davi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Davi-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Davi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Davi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Davi-Windows" height="30" width="40"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg">
-</div>
-  
- ##
-  
-  <div> 
-  <a href="https://www.instagram.com/davigg335?igsh=azQxZjVmM2NkYWp4="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:davigancalvesdasilva@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="www.linkedin.com/in/davi-gonçalves01" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-    <a href="https://profile.playstation.com/link_gamer001" target="_blank"><img src="https://img.shields.io/badge/PlayStation-003791?style=for-the-badge&logo=playstation&logoColor=white" target="_blank"></a> 
+</br>
+</br>
+</br>
 
-  ![Snake animation](https://github.com/Davi-dev1/Davi-dev1/blob/output/github-contribution-grid-snake.svg)
-</div>
+
+# sobre Mim 💬 :
+
+### - Eu me chamo Davi Gonçalves da Silva , tenho 18 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
+
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/1936.gif">
+
+### - Conhecimentos  :
+- ✨ Conhecimento em Front - End: HTML,CSS,JAVASCRIPT,REACT.js
+- ✨ Conhecimento em Back-End: Banco de dados MySQL workbranch, criação de API em java e conhecimento em spring web
+
+### - Hobbies : 
+- ✨ Adoro Videogames
+- ✨ Adoro Filmes
+- ✨ Gosto de animes
+- ✨ Adoro ler livros 
+
+</br>
+</br>
+</br>
+
+
+
+# Languages & Tools 👨‍💻 🛠:
+</br>
+
+<p align="center">
+
+<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
+
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/java.png" alt="java"  width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/ai.png" alt="AI" width="90" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/bash.png" alt="bash" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/datascience.png" alt="datascience" width="180" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/google_cloud_platform.png" alt="google_cloud_platform" width="270" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/visualstudio_code.png" alt="visualstudio_code" width="240" hight="50">
+</br>
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/pc.png" alt="pc" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/edge.png" alt="edge" width="100" hight="50">
+<img src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/playstation@3x.png" alt="playstation" width="150" hight="50">
+</p>
+</br>
+</br>
+</br>
+
+
+
+# Contact Me :
+
+<p>
+ </br>
+
+
+Caso você queira me contatar para algum projeto, ou para conversar, jogar ou estudar me contate:😉.
+
+<a href="mailto:ashutosh.saxena.davigancalvesdaislva@gmail.com">
+ <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
+</a>
+<a href="https://https://www.linkedin.com/in/davi-gon%C3%A7alves01/">
+  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
+</br>
+</br>
+</br>
+</a>
+
+
+
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
+
+*************
