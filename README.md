@@ -13,7 +13,7 @@
 
 ### - Eu me chamo Davi Gonçalves da Silva , tenho 18 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
 
-<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/queen-band.gif">
+<img hight="400" width="500" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/queen-sing.gif">
 
 ### - Conhecimentos  :
 - ✨ Conhecimento em Front - End: HTML,CSS,JAVASCRIPT,REACT.js
