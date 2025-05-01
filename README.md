@@ -64,10 +64,10 @@
 
 Caso você queira me contatar para algum projeto, ou para conversar, jogar ou estudar me contate:😉.
 
-<a href="mailto:ashutosh.saxena.davigancalvesdaislva@gmail.com">
+<a href="mailto:davigancalvesdaislva@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://https://www.linkedin.com/in/davi-gon%C3%A7alves01/">
+<a href="https://www.linkedin.com/in/davi-gon%C3%A7alves01/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
