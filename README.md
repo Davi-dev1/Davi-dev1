@@ -48,6 +48,12 @@
 <img src = "https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/MySQL.svg" alt ="Java" width = "100" highth = "50">
 <img src = "https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/React.svg" alt ="MySQL" width="100" highth ="50">
 
+<br>
+<br>
+<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-intellij-idea.svg" alt ="Intelijea" width="100" highth="50">
+<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/visualstudio_code.png" alt ="Intelijea" width="100" highth="50">
+<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-mysql-logo.svg" alt="Mysqlidea" width="100" highth="50">
+
 
 
 </p>
