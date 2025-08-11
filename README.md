@@ -41,6 +41,7 @@
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/HTML.svg" alt="html" width="100" highth="50">
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/CSS.svg" alt="Css" width="100" highth="50">
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/Javascript.svg" alt="Css" width="100" highth="50">
+<img src = "https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/Java.svg" alt ="Java" width = "100" highth = "50">
 <br>
 
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/Java.svg" alt="Css" width="100" highth="50">
