@@ -53,6 +53,8 @@
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-intellij-idea.svg" alt ="Intelijea" width="100" highth="50">
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-visual-studio-code-2019.svg" alt ="Intelijea" width="100" highth="50">
 <img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-mysql-logo.svg" alt="Mysqlidea" width="100" highth="50">
+<br>
+<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-git.svg" alt="Mysqlidea" width="100" highth="50">
 
 
 
