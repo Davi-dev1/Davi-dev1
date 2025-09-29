@@ -13,18 +13,18 @@
 
 ### - Eu me chamo Davi Gonçalves da Silva , tenho 18 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
 
-<img hight="350" width="450" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icegif-1072.gif">
+<img hight="350" width="430" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icegif-1072.gif">
 
 ### - Conhecimentos  :
 - ✨ Conhecimento em Front - End: Html , Css , JavaScript , React.js
 - ✨ Conhecimento em Back-End: Banco de dados MySQL workbranch, criação de API em java e conhecimento em Spring Web
-
+ 
 ### - Hobbies : 
 - ✨ Adoro Videogames
 - ✨ Adoro Filmes
 - ✨ Gosto de animes
 - ✨ Adoro ler livros
-- ✨ Adoro Rock
+- ✨ Adoro Rock 
 
 </br>
 </br>
