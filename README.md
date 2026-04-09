@@ -11,7 +11,7 @@
 
 # Sobre Mim 💬 :
 
-### - Eu me chamo Davi Gonçalves da Silva , tenho 18 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
+### - Eu me chamo Davi Gonçalves da Silva , tenho 19 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
 
 <img hight="350" width="430" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icegif-1072.gif">
 
