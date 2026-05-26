@@ -86,8 +86,8 @@ Caso você queira me contatar para algum projeto, ou para conversar, jogar ou es
 
 <div align="center">
   <a href="https://github.com/Davi-dev1">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-dev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dev1&layout=compact&langs_count=7&theme=dracula"/>
+ <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Davi-dev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&v=1"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Davi-dev1&layout=compact&langs_count=7&theme=dracula&v=1"/>
 </div>
 
 *************
