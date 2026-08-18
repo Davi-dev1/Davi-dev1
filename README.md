@@ -90,7 +90,7 @@
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Davi-dev1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-<!--![Snake animation](https://raw.githubusercontent.com/Davi-dev1/Davi-dev1/output/github-contribution-grid-snake-dark.svg)-->
+[Snake animation](https://raw.githubusercontent.com/Davi-dev1/Davi-dev1/output/github-contribution-grid-snake-dark.svg)
 
 
 </details>
