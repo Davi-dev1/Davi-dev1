@@ -1,88 +1,87 @@
-# Olá olá pessoinha 👋
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=%20I'am%20Davi&animation=fadeIn&fontColor=black&textBg=false&fontAlignY=50&strokeWidth=2&stroke=red&descSize=123&descAlignY=52&descAlign=79"/>
+
+<br>
 
 <div align="center">
-<img hight="300" width="700" alt="GIF" align="center" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/13998%20(1).gif">
+  <!-- <img align="center" height="150" src="" /> -->
 </div>
 
-</br>
-</br>
-</br>
+<div align="center">
+  
+  <b>`かいはつしゃ`</b>
+  <samp>
+      <br>
+      Hi there! I'm <b> Davi </b>
+  </samp>
+</div>
 
+<div align="center" width="100%">
+  
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1000&center=true&vCenter=true&width=435&lines=I'am+from+Brazil;I'am+a+Web+Designer;I'am+a+Programmer;Welcome+to+my+profile!" alt="Typing SVG"   />
+</div>
 
-# Sobre Mim 💬 :
+<br>
 
-### - Eu me chamo Davi Gonçalves da Silva , tenho 19 anos e estudo atualmente Análise em desenvolvimento de Sistemas na Universidade Uninove.
+<div align="center">
+  <img src="https://img.shields.io/badge/FullStack-Developer-blue" />
+</div>
+      
+<br>
+<br>
+      
+<div align="center">
+  
+</div>
 
-<img hight="350" width="430" alt="GIF" align="right" src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icegif-1072.gif">
-
-### - Conhecimentos  :
-- ✨ Conhecimento em Front - End: Html , Css , JavaScript , React.js,Flask
-- ✨ Conhecimento em Back-End: MySQL, criação de API em java e conhecimento em Spring Web,
+<div align="center" style="display: inline_block"><br>
+  <h1>Tools <img height="40" src="https://img.icons8.com/material-outlined/24/maintenance.png"/></h1>
+  
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/JavaScript.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/HTML.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/CSS.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Bootstrap.svg">
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Light.svg">
  
-### - Hobbies : 
-- ✨ Adoro Videogames
-- ✨ Adoro Filmes
-- ✨ Gosto de animes
-- ✨ Adoro ler livros
-- ✨ Adoro Rock 
-
-</br>
-</br>
-</br>
-<br>
-
-
-# Ferramentas que uso: 👨‍💻 🛠:
-</br>
-
-<p align="center">
-
-<!-- For more icons please follow  https://github.com/MikeCodesDotNET/ColoredBadges -->
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/HTML.svg" alt="html" width="100" highth="50">
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/CSS.svg" alt="Css" width="100" highth="50">
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/Javascript.svg" alt="Css" width="100" highth="50">
-
-<br>
-
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/Java.svg" alt="Css" width="100" highth="50">
-<img src = "https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/MySQL.svg" alt ="Java" width = "100" highth = "50">
-<img src = "https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/React.svg" alt ="MySQL" width="100" highth ="50">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Git.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Python-Dark.svg">
+   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/PHP-Dark.svg">                 
+  <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/React-Light.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Java-Dark.svg">
+  <img width="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/Figma-Dark.svg">
+   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Flask-Light.svg">
+   <img width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Dark.svg">
+  
+</div>
 
 <br>
 <br>
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-intellij-idea.svg" alt ="Intelijea" width="100" highth="50">
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-visual-studio-code-2019.svg" alt ="Intelijea" width="100" highth="50">
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-mysql-logo.svg" alt="Mysqlidea" width="100" highth="50">
+
+<details align="center">  
+  <summary>
+      <samp>
+        <b>More Info</b>
+      </samp>
+  </summary>
+  
 <br>
-<img src="https://github.com/Davi-dev1/Reposit-rio-img-read-me/blob/main/assets/icons/icons8-git.svg" alt="Mysqlidea" width="100" highth="50">
 
+##
 
+<br>
 
-</p>
-</br>
-</br>
-</br>
+<div align="center">
+  <samp>
+    <b>
+      Contact me:
+    </b>
+  </samp>
+  <br>
+  <br>
 
-
-
-# Contate-Me :
-
-<p>
- </br>
-
-
-Caso você queira me contatar para algum projeto, ou para conversar, jogar ou estudar me contate:😉.
-
-<a href="mailto:davigancalvesdasilva@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/davi-gon%C3%A7alves01/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</br>
-</br>
-</br>
-</a>
-
+  [![Gmail](https://img.shields.io/badge/Gmail-dd4b40?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:davigancalvesdasilva@gmail.com)
+  [![Linkedin](https://img.shields.io/badge/LinkedIn-007ab9?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/davi-gonçalves01/)
+  
+</div>
 
 <div align="center">
   <a href="https://github.com/Davi-dev1">
@@ -91,4 +90,16 @@ Caso você queira me contatar para algum projeto, ou para conversar, jogar ou es
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Davi-dev1&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
-*************
+<!--![Snake animation](https://raw.githubusercontent.com/Davi-dev1/Davi-dev1/output/github-contribution-grid-snake-dark.svg)-->
+
+
+</details>
+
+##
+
+<br>
+
+
+
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=112&color=gradient&section=footer&v=2" />
