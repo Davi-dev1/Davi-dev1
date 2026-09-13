@@ -87,7 +87,7 @@
   <a href="https://github.com/Davi-dev1">
 <img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api?username=Davi-dev1&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Davi-dev1&hide=HTML,CSS,PHP&langs_count=8&theme=dracula"/>
+<img height="180em" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Davi-dev1&hide=HTML,CSS,PHP&langs_count=5&theme=dracula"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/Davi-dev1/Davi-dev1/output/snake.svg" alt="Snake animation" />
